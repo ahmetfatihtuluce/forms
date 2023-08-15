@@ -8,6 +8,10 @@
     width: 450px;
 }
 
+.task-edit{
+    width: 100%;
+}
+
 .task-form{
 
     display: flex;
@@ -77,4 +81,8 @@
 .task-title{
 
     margin-bottom: 5px;
+}
+
+.update-button{
+    background-color: blueviolet;
 }
